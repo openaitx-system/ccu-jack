@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=mdzio&project=ccu-jack&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # CCU-Jack
 
 CCU-Jack bietet einen einfachen und sicheren **REST**- und **MQTT**-basierten Zugriff auf die Datenpunkte der Zentrale (CCU) des [Hausautomations-Systems](http://de.wikipedia.org/wiki/Hausautomation) HomeMatic der Firma [eQ-3](http://www.eq-3.de/). Er implementiert dafür das [Very Easy Automation Protocol](https://github.com/mdzio/veap), welches von vielen Programmiersprachen leicht verwendet werden kann, und das [MQTT-Protokoll](https://de.wikipedia.org/wiki/MQTT), welches im Internet-of-Things weit verbreitet ist. Zudem können mit den genannten Protokollen auch Fremdgeräte an die CCU angebungen werden.
